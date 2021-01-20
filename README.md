@@ -20,7 +20,7 @@ This main purpose of this project is to implement the concepts of statistics nam
 * Scipy
 
 ## Project Walk Through
-First we have to sets of data **lusc-rsem-fpkm-tcga_paired.txt** and ***lusc-rsem-fpkm-tcga-t_paired.txt*, healthy and cancerous respictively.
+First we have two sets of data **lusc-rsem-fpkm-tcga_paired.txt** and **lusc-rsem-fpkm-tcga-t_paired.txt**, healthy and cancerous respictively.
 they represent the Genes Expressions for both healthy and cancer type Lung Squamous Cell Carcinoma (LUSC), knowing that the data is paired.
 
 The Project Files are in this manner
@@ -34,6 +34,7 @@ The Project Files are in this manner
 * Ramadan Ibrahem - [![linkedin-shield]](https://www.linkedin.com/in/ramadanibrahem/)
 * Muhammad Seyam - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-seyam-91b3b81b7/)
 * Muhammad Abd-ElAziz - [![linkedin-shield]](https://www.linkedin.com/in/mohamed-ahmed-abdelaziz)
+* Haithem Emad - [![linkedin-shield]](https://www.linkedin.com/in/haitham-emad-5145b3177/)
 
 ## About
 This project is a part of the SBE304 course (Bio-Statistics) in the [Systems and Biomedical Engineering Department - Cairo University](http://bmes.cufe.edu.eg/)\
